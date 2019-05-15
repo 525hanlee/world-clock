@@ -3,12 +3,12 @@ html,body{
   width: 100%
   padding: 0px;
   margin: 0px;
+  background: #E5E5E5;
 }
 .wrap{
   height: 100%;
   width: 100%;
   min-width: 540px;
-  background: #E5E5E5;
   font-family: 'Open Sans', sans-serif;
 }
 .clock{
